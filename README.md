@@ -1,4 +1,4 @@
-## Hello this is JaeoChoiii 👋 🧑‍💻
+## Hello wanna be a FE developer 👋 🧑‍💻
 
 ### 🏢 Belong to
 
