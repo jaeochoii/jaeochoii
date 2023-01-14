@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=sylinder&color=auto&height=120&section=header&text=텍스트&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=텍스트&fontSize=폰트크기)
 
 ## Hello wanna be a FE developer 👋 🧑‍💻
 
