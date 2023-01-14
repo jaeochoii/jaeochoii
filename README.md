@@ -25,7 +25,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&color=dark)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@jaeochoiii))
 
 ### ⚙️ Github Stats
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeochoii&show_icons=true&theme=github_dark)
+![jaeochoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeochoii&show_icons=true&theme=github_dark)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
 
