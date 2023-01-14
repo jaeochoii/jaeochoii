@@ -1,5 +1,10 @@
 ## Hello wanna be a FE developer 👋 🧑‍💻
 
+### 👻 Introduce Jaeo
+
+<a href="https://www.instagram.com/uh_jaeo_neul/"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
 ### 🏢 Belong to
 
 <img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/> <img src="https://img.shields.io/badge/Computer Science Engineering-FE2EF7?style=flat-square&logo=computer&logoColor=white"/>
