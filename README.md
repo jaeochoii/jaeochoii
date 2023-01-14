@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=로고명&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=firebase&logoColor=white"/>
 
 
 <!--
