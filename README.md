@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/LIKELION-FF8000?style=flat-square&logo=likelion&logoColor=white"/>
 
 ### 🖥️ Stack
-<img src="https://img.shields.io/badge/Html-045FB4?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-FE2E2E?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-045FB4?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-FE2E2E?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=JS&logoColor=white"/> <img src="https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=React&logoColor=white"/>
 
 
 
