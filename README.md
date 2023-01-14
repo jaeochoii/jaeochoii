@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=sylinder&color=auto&height=120&section=header&text=텍스트&fontSize=폰트크기)
+
 ## Hello wanna be a FE developer 👋 🧑‍💻
 
-### 👻 Introduce Jaeo
+### 👻 Introduce
 
 <a href="https://www.instagram.com/uh_jaeo_neul/"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@jaeochoiii"><img src="https://img.shields.io/badge/Velog-01DFA5?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://github.com/jaeochoii"><img src="https://img.shields.io/badge/Github-6E6E6E?style=flat-square&logo=Github&logoColor=white"/></a>
 
