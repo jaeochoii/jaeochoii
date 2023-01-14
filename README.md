@@ -2,7 +2,7 @@
 
 ### 👻 Introduce Jaeo
 
-<a href="https://www.instagram.com/uh_jaeo_neul/"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/uh_jaeo_neul/"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=Instagram&logoColor=black"/></a>
 
 
 ### 🏢 Belong to
