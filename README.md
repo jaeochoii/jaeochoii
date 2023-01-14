@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Uh_JaeO_Neul's__Github&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Uh_JaeO_Neul's______Github&fontSize=50)
 
 ## Hello wanna be a FE developer 👋 🧑‍💻
 
