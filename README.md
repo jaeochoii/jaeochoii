@@ -7,7 +7,7 @@
 
 ### 🏢 Belong to
 
-<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/> <img src="https://img.shields.io/badge/Computer Science Engineering-D8D8D8?style=flat-square&logo=computer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/> <img src="https://img.shields.io/badge/Computer Science Engineering-6E6E6E?style=flat-square&logo=computer&logoColor=white"/>
 <img src="https://img.shields.io/badge/LIKELION-FF8000?style=flat-square&logo=likelion&logoColor=white"/>
 
 ### 🖥️ Stack
