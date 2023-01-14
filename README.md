@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Html-045FB4?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-FE2E2E?style=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/C++-01DF74?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/>
 
 ### ⚒️ Tools
-<img src="https://img.shields.io/badge/VisualStudioCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-084B8A?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-084B8A?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-6E6E6E?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
 
