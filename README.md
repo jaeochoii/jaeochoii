@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-084B8A?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-6E6E6E?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-FF0080?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 ### 📘 Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeochoii&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)         [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii)](https://velog.io/@jaeochoiii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeochoii&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&color=dark)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@jaeochoiii))
+
 
 
 
