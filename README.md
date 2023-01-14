@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/> <img src="https://img.shields.io/badge/Computer Science Engineering-08088A?style=flat-square&logo=university&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/> <img src="https://img.shields.io/badge/Computer Science Engineering-08088A?style=flat-square&logo=computer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Inha University-2E9AFE?style=flat-square&logo=university&logoColor=white"/>
 
 
