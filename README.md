@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Github&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Uh_JaeO_Neul's Github&fontSize=20)
 
 ## Hello wanna be a FE developer 👋 🧑‍💻
 
