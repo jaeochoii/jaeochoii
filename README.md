@@ -22,6 +22,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&color=dark)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@jaeochoiii)) 
 
 ### 🗒️ Language most used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeochoii&layout=compact 스타일&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeochoii&layout=compact &theme=tokyonight)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer) 
