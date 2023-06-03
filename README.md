@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-084B8A?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-6E6E6E?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-FF0080?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a> 
 
 ### 📝 Velog Post
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&color=dark)](https://velog.io/@jaeochoiii)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/jaeochoii/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&tag=코딩테스트)](https://github.com/jaeochoii/velog-readme-stats)
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer) 
