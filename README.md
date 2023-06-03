@@ -20,5 +20,7 @@
 
 ### 📝 Velog Post
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii&color=dark)](https://velog.io/@jaeochoiii)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/jaeochoii/velog-readme-stats)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer) 
