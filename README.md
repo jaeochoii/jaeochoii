@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Uh_JaeO_Neul&fontSize=30)
 
-## 차근차근 성장하는 프론트엔드 개발자가 되어가는 중입니다👋 🧑‍💻
+## 차근차근 성장하는 프론트엔드 개발자가 되어가는 중입니다 🧑‍💻
 
 ### 👻 Introduce
 
