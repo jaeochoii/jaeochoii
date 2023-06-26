@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<a href="https://velog.io/@jaeochoiii" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
 </p>
 <br/>
 
@@ -34,14 +37,6 @@
 
 ### 📝 My Record 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii)](https://velog.io/@jaeochoiii)
-
-<a href="https://www.youtube.com/@log_the_summer" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
-</a>    
-    
-<a href="https://velog.io/@yeonsubaek" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
 
 </div>
 
