@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=160&section=header&text=Every&nbsp;day&nbsp;is&nbsp;a&nbsp;summer&nbsp;day&fontSize=42&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=160&section=header&text=Jaeochoii&nbsp;&fontSize=42&animation=twinkling)
 
 <div align="center">
 
