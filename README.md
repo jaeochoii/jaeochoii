@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=160&section=header&text=짜봐&nbsp;스크립트&nbspjaeochoiii;&fontSize=42&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=160&section=header&text=짜봐&nbsp;스크립트&nbsp&fontSize=42&animation=twinkling)
 
 <div align="center">
 
