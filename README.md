@@ -40,5 +40,3 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii)](https://velog.io/@jaeochoiii)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=150&section=footer)
