@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-F59542?style=flat-square&logo=C&logoColor=black"/>
 <img src="https://img.shields.io/badge/PYTHON-1A63A3?style=flat-square&logo=Python&logoColor=black"/>
-<img src="https://img.shields.io/badge/StyledComponents-CD5D85?style=flat-square&logo=StyledComponents&logoColor=black"/>
+<img src="https://img.shields.io/badge/Styled-Components-CD5D85?style=flat-square&logo=StyledComponents&logoColor=black"/>
 </p>
 <br/>
 
