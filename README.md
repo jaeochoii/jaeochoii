@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/C++-F59542?style=for-the-badge&logo=C&logoColor=black"/>
 <img src="https://img.shields.io/badge/PYTHON-1A63A3?style=for-the-badge&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/STYLED_COMPONENTS-CD5D85?style=for-the-badge&logo=StyledComponents&logoColor=black"/>
+<img src="https://img.shields.io/badge/JEST-CD5D85?style=for-the-badge&logo=Jest&logoColor=black"/>
 </p>
 <br/>
 
