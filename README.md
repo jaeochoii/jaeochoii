@@ -1,6 +1,6 @@
 <div align="center">
 <img width="871" alt="스크린샷 2023-08-16 오후 4 00 42" src="https://github.com/jaeochoii/jaeochoii/assets/103018984/db29688e-6a94-47bd-aa14-886daf1915da">
-  
+
 ### 📚 Tech Stack 📚
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
