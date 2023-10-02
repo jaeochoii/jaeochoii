@@ -1,9 +1,15 @@
 <div align="center">
 <img width="871" alt="스크린샷 2023-08-16 오후 4 00 42" src="https://github.com/jaeochoii/jaeochoii/assets/103018984/db29688e-6a94-47bd-aa14-886daf1915da">
 
+
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/react-icon.svg">
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/jest-icon.svg">
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/prettier-icon.svg">
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/github-icon.svg">
+
 ### 📚 Tech Stack 📚
 <p>
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
