@@ -37,11 +37,6 @@
 <br/>
 <br/>
 
-### 💡 My Git Stats 💡
-![jaeochoii's github stats](https://github-readme-stats.vercel.app/api?username=jaeochoii&show_icons=true&theme=vue)
-<br/>
-<br/>
-
 ### 📝 My Record 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii)](https://velog.io/@jaeochoiii)
 
