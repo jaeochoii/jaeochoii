@@ -1,12 +1,4 @@
 <div align="center">
-<img width="871" alt="스크린샷 2023-08-16 오후 4 00 42" src="https://github.com/jaeochoii/jaeochoii/assets/103018984/db29688e-6a94-47bd-aa14-886daf1915da">
-
-
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/react-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/jest-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/prettier-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/github-icon.svg">
 
 ### 📚 Tech Stack 📚
 <p>
@@ -29,15 +21,6 @@
 </a>
 </p>
 <br/>
-
-### 💡 My Most Used Language 💡
-<a href="https://github.com/jaeochoii">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeochoii&layout=compact&show_icons=false&show_owner=jaeochoii&hide_title=false&theme=vue&hide=false" />
-  </a>
 <br/>
-<br/>
-
-### 📝 My Record 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaeochoiii)](https://velog.io/@jaeochoiii)
 
 </div>
