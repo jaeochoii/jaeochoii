@@ -1,7 +1,7 @@
 # Choi Jae O
 <h4>🧑🏻‍💻 Frontend Developer</h4>
 <p>
-  <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
 <h4>📚 Tech Stack</h4>
 <p>
