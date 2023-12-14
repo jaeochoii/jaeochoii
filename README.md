@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>&nbsp
 </p>
 
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeochoiii0716"/>
 
