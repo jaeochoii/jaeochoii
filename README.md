@@ -1,5 +1,8 @@
-# 최재오 *Choi Jae O*
+# Choi Jae O
 <h4>🧑🏻‍💻 Frontend Developer</h4>
+<p>
+  <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+</p>
 <h4>📚 Tech Stack</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp
