@@ -1,10 +1,10 @@
 # Choi Jae O
-<h4>🧑🏻‍💻 Frontend Developer</h4>
+<h3>🧑🏻‍💻 Frontend Developer</h3>
 <p>
   <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%98%A4-%EC%B5%9C-187625299/" target="_blank"><img src="https://img.shields.io/badge/Jaeochoiii-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
-<h4>📚 Tech Stack</h4>
+<h3>📚 Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp
 </p>
-<h4>✏️ BOJ</h4>
+<h3>⚙️ Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+</p>
+<h3>✏️ BOJ</h3>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeochoiii0716"/>
 
