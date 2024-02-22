@@ -213,7 +213,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="200" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">기술적 겸손함📚을 바탕으로</text>
   </g>
 
@@ -237,7 +237,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 96)" class="msg-3">
-    <rect width="120" height="42" rx="18.0355" class="bubble" />
+    <rect width="140" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">어제보다 더 나은</text>
   </g>
 
@@ -285,7 +285,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-5">
-    <rect width="150" height="42" rx="18.0355" class="bubble" />
+    <rect width="155" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">끊임없이 성장하는🌱</text>
   </g>
 
@@ -309,7 +309,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-6">
-    <rect width="245" height="42" rx="18.0355" class="bubble" />
+    <rect width="235" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">프론트엔드 개발자 최재오입니다.</text>  
   </g>
 </svg>
