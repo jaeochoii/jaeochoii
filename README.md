@@ -1,4 +1,5 @@
 # Choi Jae O
+![](chat.svg)
 <h3>🧑🏻‍💻 Frontend Developer</h3>
 <p>
   <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
