@@ -189,7 +189,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="150" height="42" rx="18.0355" />
+    <rect width="135" height="42" rx="18.0355" />
     <text x="15" y="27" fill="red">안녕하세요.👋</text>
   </g>
 
