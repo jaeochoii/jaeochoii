@@ -25,7 +25,7 @@
 </p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeochoiii0716"/>
 
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
