@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Styled_components-DB7093?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>&nbsp
 </p>
 <h3>⚙️ Tools</h3>
 <p>
