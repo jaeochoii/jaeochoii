@@ -4,6 +4,7 @@
 <p>
   <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://velog.io/@jaeochoiii/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://980716.notion.site/4140b583926b4dc1a65066aba2d4ae1f" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%98%A4-%EC%B5%9C-187625299/" target="_blank"><img src="https://img.shields.io/badge/Jaeochoiii-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 <h3>📚 Tech Stack</h3>
