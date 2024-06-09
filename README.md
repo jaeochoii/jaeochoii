@@ -7,7 +7,7 @@
   <a href="https://980716.notion.site/4140b583926b4dc1a65066aba2d4ae1f" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%98%A4-%EC%B5%9C-187625299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
-<h3>📚 Tech Stack</h3>
+<h3>📚 Tech Stack </h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
