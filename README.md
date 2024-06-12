@@ -1,6 +1,6 @@
 # Choi Jae O
 
-<h3>🧑🏻‍💻 Frontend Developer</h3>
+<h3>🧑🏻‍💻 Developer</h3>
 <p>
   <a href="https://jaeochoii.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://velog.io/@jaeochoiii/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
